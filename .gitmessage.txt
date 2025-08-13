@@ -1,0 +1,23 @@
+# <type>: <TICKET-ID> - <short description>
+# Types: feat, fix, docs, style, refactor, perf, test, chore, revert
+# Max 100 characters for the header.
+# Example: feat: CAI-101 - Implement login API
+
+<type>: <TICKET-ID> - <short description>
+
+# Body: Explain what and why (mandatory for feat, fix, refactor)
+# Wrap text at 72 characters per line.
+# Example:
+# Added JWT authentication for user login.
+# Updated API routes and wrote unit tests.
+
+# Footer: Optional - Breaking changes or related issues
+# Example:
+# BREAKING CHANGE: User password field renamed to password_hash.
+# Closes CAI-202.
+
+
+# ---------------------------------------------------------------------------------------------
+# this template can be activated by executing `git config commit.template .gitmessage.txt` ones
+# ---------------------------------------------------------------------------------------------
+
