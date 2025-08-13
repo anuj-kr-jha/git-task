@@ -2,10 +2,11 @@
 # Types: feat, fix, docs, style, refactor, perf, test, chore, revert
 # Max 100 characters for the header.
 # Example: feat: CAI-101 - Implement login API
+# <TICKET-ID> required for feat/fix
 
 <type>: <TICKET-ID> - <short description>
 
-# Body: Explain what and why (mandatory for feat, fix, refactor)
+# Body: Explain what and why (mandatory for feat, fix, revert)
 # Wrap text at 72 characters per line.
 # Example:
 # Added JWT authentication for user login.

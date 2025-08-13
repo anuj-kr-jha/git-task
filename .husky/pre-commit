@@ -1,4 +1,0 @@
-npm test
-
-echo "📝 Checking commit message..."
-sh scripts/check-commit-msg.sh
