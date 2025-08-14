@@ -1,0 +1,2 @@
+echo "executing commit-msg hook ..."
+scripts/commit-msg-check.sh "$1"
